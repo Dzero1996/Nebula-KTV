@@ -1,0 +1,4 @@
+# file: C:\Users\DengZheng\AppData\Roaming\Python\Python313\site-packages\pypinyin\style\braille_mainland.py
+# hypothesis_version: 6.148.7
+
+['([iuv])n', 'C', 'S', 'Z', '\\1', '\\1\\3\\2', '\\1en', '\\1v', '^([jqx])u', '^([zcsr])i', '^chi?', '^shi?', '^wu?', '^yi?', '^zhi?', 'ai', 'an', 'ang', 'ao', 'ei', 'en', 'eng', 'er', 'i', 'ia', 'ian', 'iang', 'iao', 'ie', 'in', 'ing', 'iong', 'iou', 'iu', 'ong', 'ou', 'u', 'ua', 'uai', 'uan', 'uang', 'uei', 'uen', 'ueng', 'ui', 'un', 'ung', 'uo', 'v', 'van', 've', 'vn', 'w', 'y', '⠑', '⠒', '⠕', '⠖', '⠗', '⠜', '⠡', '⠣', '⠦', '⠧', '⠩', '⠪', '⠫', '⠭', '⠮', '⠯', '⠲', '⠳', '⠴', '⠶', '⠷', '⠸', '⠹', '⠺', '⠻', '⠼', '⠽', '⠾', '⠿']

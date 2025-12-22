@@ -1,0 +1,4 @@
+# file: C:\Users\DengZheng\AppData\Roaming\Python\Python313\site-packages\pypinyin\__init__.py
+# hypothesis_version: 6.148.7
+
+['0.55.0', 'BOPOMOFO', 'BOPOMOFO_FIRST', 'CYRILLIC', 'CYRILLIC_FIRST', 'FINALS', 'FINALS_TONE', 'FINALS_TONE2', 'FINALS_TONE3', 'FIRST_LETTER', 'INITIALS', 'MIT', 'NORMAL', 'STYLE_BOPOMOFO', 'STYLE_BOPOMOFO_FIRST', 'STYLE_CYRILLIC', 'STYLE_CYRILLIC_FIRST', 'STYLE_FINALS', 'STYLE_FINALS_TONE', 'STYLE_FINALS_TONE2', 'STYLE_FINALS_TONE3', 'STYLE_FIRST_LETTER', 'STYLE_INITIALS', 'STYLE_NORMAL', 'STYLE_TONE', 'STYLE_TONE2', 'STYLE_TONE3', 'Style', 'TONE', 'TONE2', 'TONE3', 'lazy_pinyin', 'load_phrases_dict', 'load_single_dict', 'mozillazg, 闲耘', 'pinyin', 'pypinyin', 'slug', 'utf-8']

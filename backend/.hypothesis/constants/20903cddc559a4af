@@ -1,0 +1,4 @@
+# file: I:\AI\Nebula-KTV\backend\app\models\media_asset.py
+# hypothesis_version: 6.148.7
+
+['audio_inst', 'audio_original', 'audio_vocal', 'lyrics_vtt', 'lyrics_word_level', 'media_assets', 'video_master', 'waveform_json']

@@ -1,0 +1,4 @@
+# file: I:\AI\Nebula-KTV\backend\app\db\database.py
+# hypothesis_version: 6.148.7
+
+['DATABASE_URL', 'TESTING']

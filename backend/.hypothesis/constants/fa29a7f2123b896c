@@ -1,0 +1,4 @@
+# file: C:\Users\DengZheng\AppData\Roaming\Python\Python313\site-packages\pypinyin\constants.py
+# hypothesis_version: 6.148.7
+
+['([aeoiuvnm])([1-4])$', 'PYPINYIN_NO_PHRASES']

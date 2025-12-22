@@ -1,0 +1,4 @@
+# file: C:\Users\DengZheng\AppData\Roaming\Python\Python313\site-packages\pypinyin\style\cyrillic.py
+# hypothesis_version: 6.148.7
+
+['(.*[^h])n([^g]?)$', '(.*[^h])ng(.?)$', '(.+)r(.?)$', '(.v)(\\d?)$', '([^CSdst])uo', '([xqj])u', '([zcs])i', 'A', 'AI', 'C', 'Cr', 'E', 'I\\1', 'Ia', 'Iai', 'Ie', 'Ii', 'Io', 'Iou', 'Iu', 'O', 'S', 'V', '\\1I\\2', '\\1R\\2', '\\1U', '\\1\\3\\2', '\\1nM\\2', '\\1n\\2', '\\1o', '\\1v', '^ch', '^j', '^sh', '^v(\\d?$)', '^wu(.?)$', '^x', '^y(.*)$', '^z', '^zh', 'aI', 'ai', 'eI', 'ei', 'huei', 'hui', 'i', 'ia', 'ie', 'iu', 'ong', 'qZ', 's', 'uI', 'u\\1', 'ui', 'ung', 'v', 'vI']

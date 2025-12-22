@@ -1,0 +1,4 @@
+# file: C:\Users\DengZheng\AppData\Roaming\Python\Python313\site-packages\pypinyin\standard.py
+# hypothesis_version: 6.148.7
+
+['([a-z]+)({tones})$', '^([a-z]+)({tones})$', 'i', 'iou', 'ioù', 'ioú', 'ioū', 'ioǔ', 'iu', 'iù', 'iú', 'iū', 'iǔ', 'u', 'uei', 'uen', 'ueì', 'ueí', 'ueī', 'ueǐ', 'ui', 'un', 'uì', 'uí', 'uī', 'uǐ', 'w', 'y', '|', 'ì', 'í', 'ù', 'ùen', 'ùn', 'ú', 'úen', 'ún', 'ü', 'ī', 'ū', 'ūen', 'ūn', 'ǐ', 'ǔ', 'ǔen', 'ǔn', 'ǖ', 'ǘ', 'ǚ', 'ǜ']

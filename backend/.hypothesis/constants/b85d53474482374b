@@ -1,0 +1,4 @@
+# file: I:\AI\Nebula-KTV\backend\app\models\song.py
+# hypothesis_version: 6.148.7
+
+[0.0, 1.0, 200, 300, 500, 1900, 2100, '4K', 'Ballad', 'Band', 'Cantonese', 'Chinese', 'Choir', 'Classical', 'Duet', 'EDM', 'English', 'FAILED', 'Female', 'Folk', 'Group', 'HD', 'HipHop', 'Hokkien', 'Japanese', 'Jazz', 'Korean', 'Male', 'Mandarin', 'Mix', 'Other', 'PARTIAL', 'PENDING', 'PROCESSING', 'Pop', 'R&B', 'READY', 'Rock', 'SD', 'Solo', 'meta_json 中的值', 'meta_json 中的键名', 'songs', '原调', '场景标签列表', '最大 BPM', '最大难度', '最小 BPM', '最小难度', '语系', '音乐流派']

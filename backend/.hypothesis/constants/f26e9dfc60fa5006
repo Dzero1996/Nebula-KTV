@@ -1,0 +1,4 @@
+# file: I:\AI\Nebula-KTV\backend\app\models\song.py
+# hypothesis_version: 6.148.7
+
+[100, 200, 'FAILED', 'PARTIAL', 'PENDING', 'PROCESSING', 'READY', 'songs']

@@ -1,0 +1,4 @@
+# file: I:\AI\Nebula-KTV\backend\app\api\stream.py
+# hypothesis_version: 6.148.7
+
+[200, 206, 404, 416, 8192, '.aac', '.avi', '.flac', '.m4a', '.mkv', '.mov', '.mp3', '.mp4', '.ogg', '.wav', '.webm', '/api/stream', '/data/media', '/{asset_id}', 'Accept-Ranges', 'Content-Length', 'Content-Range', 'Content-Type', 'MEDIA_ROOT', 'Range', 'audio/aac', 'audio/flac', 'audio/mp4', 'audio/mpeg', 'audio/ogg', 'audio/wav', 'bytes', 'bytes=(\\d*)-(\\d*)', 'rb', 'stream', 'video/mp4', 'video/quicktime', 'video/webm', 'video/x-matroska', 'video/x-msvideo', '媒体文件不存在', '媒体资产不存在']
